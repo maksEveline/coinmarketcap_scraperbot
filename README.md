@@ -33,13 +33,6 @@ This Python script automates the process of collecting current cryptocurrency pr
 
 2. The script will automatically start collecting data and sending updates to your Telegram bot.
 
-3. To stop the script, use the `/stop` command in your Telegram bot.
-
-4. Additional commands:
-- `/start`: Start the data collection process
-- `/list`: Get the latest price update report
-- `/currency <name>`: Get price data for a specific cryptocurrency (e.g., `/currency bitcoin`)
-
 ## Configuration
 
 Before running the script, you'll need to set up your Telegram bot and configure the script with your bot token and chat ID. Update the `config.py` file with the necessary information.
